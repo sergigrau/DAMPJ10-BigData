@@ -1,5 +1,4 @@
-# Big Data and Data Science showcase
-- Data Science with Python
+# Big Data 
 - Hadoop
 - Spark
 - Oziee
